@@ -1,0 +1,171 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+	  "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Ficon.png?alt=media&token=c3bbbfe5-0511-428b-9f69-aff11fa655df&_gl=1*j287at*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTU4MDUuNTguMC4w"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Tips Pinjaman Usaha (UMKM)",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fumkm.png?alt=media&token=72dc5326-dffe-48c7-943c-113622c232fb&_gl=1*votmn8*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYwMDYuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20Usaha%20(UMKM).html?alt=media&token=1f912609-5f35-4dc1-8ead-8e3486d20a56&_gl=1*1t7zwg6*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYxNTYuNTYuMC4w",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Tips",
+      "title": "Tips Pinjaman Kredit Sepeda Motor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fmotor.png?alt=media&token=00fb2006-f777-415c-8ee0-55d534345e10&_gl=1*10o0laq*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYyMjEuNjAuMC4w",
+	  "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20Kredit%20Sepeda%20Motor.html?alt=media&token=9ac79e3e-f7b4-42b8-8f6f-436fa9041a90&_gl=1*gwfdjt*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYyNzIuOS4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips",
+      "title": "Tips Pinjaman Kredit Mobil",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fmobil.png?alt=media&token=9d28b8c6-5691-4be7-ae18-197ebbaef5f8&_gl=1*2niedq*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYzMTQuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20Kredit%20Mobil.html?alt=media&token=708ad941-1e9a-47d1-a682-498bd4311a5b&_gl=1*p2gcn7*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYzMzYuMzguMC4w",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Tips Pinjaman KPR Rumah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2FRumah.png?alt=media&token=54d19b21-1f8f-493a-adc7-059d78746a4c&_gl=1*z6jg7*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTYzOTEuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20KPR%20Rumah.html?alt=media&token=c0555840-3d8c-4afa-9197-34459964ab55&_gl=1*1ri609t*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY0MDkuNDIuMC4w",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tips",
+      "title": "Tips Pinjaman Dana Darurat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fdarurat.png?alt=media&token=d19d9a5c-f081-4f9d-8f35-9ef0aaab01de&_gl=1*18gv2d6*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY0NDcuNC4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FTips%20Pinjaman%20Dana%20Darurat.html?alt=media&token=acb61655-d223-4310-a1f4-52023d949a38&_gl=1*14hovr0*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY0NjMuNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Tips Pinjaman Dana Kesehatan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fkesehatan.png?alt=media&token=079eb218-a5e9-47f7-bee0-306a5745023c&_gl=1*1xfiu2g*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY1MDEuMjIuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20Dana%20Kesehatan.html?alt=media&token=82bdb756-4c7d-424d-b1b7-662036beac84&_gl=1*38ufao*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY1MjIuMS4wLjA.",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Tips",
+      "title": "Tips Pinjaman Dana Pendidikan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2Ficon%2Fpendidikan.png?alt=media&token=f6b3a19e-af65-4285-8849-695da584e307&_gl=1*jtscoc*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY1NTQuMjkuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/PinjamCepat%2FPinjaman%20Dana%20Pendidikan.html?alt=media&token=810f2e84-0c82-44d7-8bd0-1d2efb1366d6&_gl=1*1rjq1sx*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5NzExNTM1NS4xNy4xLjE2OTcxMTY1ODYuNjAuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+     "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
